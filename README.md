@@ -1,1 +1,1 @@
-# NovaXX
+print("NovaX On Top!")
