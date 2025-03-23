@@ -7,4 +7,4 @@ local function sendNotification(title, text, duration)
         })
     end)
 end
-sendNotification("NovaX Attached With Atlantis API!", "Ty For Using NovaX!", 5)
+sendNotification("NovaX Attached With Atlantis API!", "Ty For Using NovaX! discord.gg/FWZVSRsn8C", 5)
